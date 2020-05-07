@@ -13,6 +13,7 @@
     "dist/*"
   ],
   "author": "@mikolaj6r",
+  "repository": "github:mikolaj6r/svelte-usereducer",
   "license": "ISC",
   "devDependencies": {
     "microbundle": "^0.11.0"
