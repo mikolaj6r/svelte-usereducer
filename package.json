@@ -1,0 +1,23 @@
+{
+  "name": "svelte-usereducer",
+  "version": "1.0.0",
+  "description": "useReducer hook for Svelte",
+  "source": "src/index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.module.js",
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
+  "files": [
+    "dist/*"
+  ],
+  "author": "@mikolaj6r",
+  "license": "ISC",
+  "devDependencies": {
+    "microbundle": "^0.11.0"
+  },
+  "peerDependencies": {
+    "svelte": "^3.0.0"
+  }
+}
